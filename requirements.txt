@@ -1,0 +1,12 @@
+# Required Vim plugins for ~/.vimrc
+
+kamykn/spelunker.vim
+sheerun/vim-polyglot
+vim-autoformat/vim-autoformat
+dense-analysis/ale
+ambv/black
+vim-airline/vim-airline
+vim-airline/vim-airline-themes
+chriskempson/base16-vim
+vim-voom/VOoM
+thaerkh/vim-workspace
